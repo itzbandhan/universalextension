@@ -1,6 +1,6 @@
 
 # 🌀 ItzPremium_v8 — Unified YouTube + Instagram Dark Theme Extension  
-![Alt text](img.png)
+![Alt text](img(3).png)
 
 
 ## 💫 Overview  
