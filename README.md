@@ -26,7 +26,7 @@ Follow these simple steps to install the extension manually:
 
 1. **Download or Clone this Repository**
    ```bash
-   git clone https://github.com/<your-username>/ItzPremium_v8.git
+   git clone https://github.com/itzbandhan/universalextension.git
 
 
 Or download it as a `.zip` and extract it.
