@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "ItzPremium Universal (YouTube + Instagram)",
+  "version": "8.0",
+  "description": "Immersive gradient themes for YouTube and Instagram with glass UI, rounded corners, and optimized performance.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": [
+    "*://www.youtube.com/*",
+    "*://instagram.com/*",
+    "*://www.instagram.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.youtube.com/*",
+        "*://www.instagram.com/*",
+        "*://instagram.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
