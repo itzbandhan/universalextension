@@ -1,9 +1,4 @@
-Here you go — the **GitHub-ready `README.md`** in **copy-paste format** (fully Markdown compatible and copyable).
-You can literally copy everything below ⬇️ and paste it into your `README.md` file.
 
----
-
-```markdown
 # 🌀 ItzPremium_v8 — Unified YouTube + Instagram Dark Theme Extension  
 
 ## 💫 Overview  
@@ -24,22 +19,7 @@ Built with ❤️ by **Bandhan**, this version is finely tuned for **speed, poli
 
 ---
 
-## 📁 Folder Structure  
-```
 
-ItzPremium_v8/
-│
-├── manifest.json
-├── content.js
-├── popup.html
-├── popup.js
-├── icons/
-│   └── icon.png
-└── README.md
-
-````
-
----
 
 ## 🧩 Installation (Load Unpacked in Chrome)
 Follow these simple steps to install the extension manually:
@@ -47,7 +27,7 @@ Follow these simple steps to install the extension manually:
 1. **Download or Clone this Repository**
    ```bash
    git clone https://github.com/<your-username>/ItzPremium_v8.git
-````
+
 
 Or download it as a `.zip` and extract it.
 
