@@ -1,7 +1,7 @@
 
 # 🌀 ItzPremium_v8 — Unified YouTube + Instagram Dark Theme Extension  
 <img src="https://cdn.jsdelivr.net/gh/itzbandhan/universalextension/icons/image_first.png" alt="Screenshot" width="500" height="300" />
-
+<img src="https://cdn.jsdelivr.net/gh/itzbandhan/universalextension/icons/second" alt="Screenshot" width="500" height="300" />
 
 
 ## 💫 Overview  
