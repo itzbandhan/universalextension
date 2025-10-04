@@ -1,5 +1,7 @@
 
 # 🌀 ItzPremium_v8 — Unified YouTube + Instagram Dark Theme Extension  
+![Alt text](img.png)
+
 
 ## 💫 Overview  
 **ItzPremium_v8** is a lightweight, performance-optimized Chrome extension that applies a **custom theme overlay** to YouTube and Instagram.  
